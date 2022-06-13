@@ -82,7 +82,7 @@ ehthumbs.db
 # Unity generated
 # ===============
 [Oo]bj/
-[Bb]uild
+
 sysinfo.txt
 *.stackdump
 
@@ -92,7 +92,6 @@ sysinfo.txt
 # ===========================
 */[Ll]ibrary/
 */[Tt]emp/
-*/[Bb]uilds/
 */[Ll]ogs/
 */[Mm]emoryCaptures/
 
